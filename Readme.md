@@ -20,7 +20,7 @@
 ````
 ## Project Skeleton 
 
-Image Gellery Project(folder)
+Image Gallery Project(folder)
 |
 |----readme.md        
 SOLUTION
