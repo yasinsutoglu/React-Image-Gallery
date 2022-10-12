@@ -1,4 +1,4 @@
-<h1 align="center">Tour Places</h1>
+<h1 align="center">Image Gallery</h1>
 
 <h3>Overview</h3>
 👨‍💻 In this project I mastered REACT skills. I used mainly JSX, props,components structure , CSS. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
