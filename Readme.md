@@ -1,7 +1,7 @@
 <h1 align="center">Tour Places</h1>
 
 <h3>Overview</h3>
-👨‍💻 In this project I mastered REACT skills. I used mainly JSX, props,components structure , SCSS. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
+👨‍💻 In this project I mastered REACT skills. I used mainly JSX, props,components structure , CSS. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional as possible..
 <hr>
 
 ## ✨ Demo
@@ -43,7 +43,7 @@ SOLUTION
 <!-- --------------------------------------- -->
 ### Purpose of Project;
 
-👨‍💻 The main aim of this project is to improve my <b>REACT/SCSS/JS/git commands (push, pull, commit, add etc.) skills and responsive design abilities</b>.
+👨‍💻 The main aim of this project is to improve my <b>REACT/CSS/JS/git commands (push, pull, commit, add etc.) skills and responsive design abilities</b>.
 
 
 ## Objective
@@ -54,7 +54,7 @@ SOLUTION
 
 - HTML / Semantic elements 
 
-- SCSS - CSS Styles, Folder Structure etc.
+- CSS - CSS Styles, Folder Structure etc.
 
 - REACT / Components , Props etc.
 
